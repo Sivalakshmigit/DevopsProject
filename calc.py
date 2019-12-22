@@ -2,9 +2,9 @@ def add(x,y):
 
     pass
 
-def subtract(x,y):
+def subtract(x,y,z):
 
-    pass
+    return x-y-z
 
 def multiply(x,y):
 
